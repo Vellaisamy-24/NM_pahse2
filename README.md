@@ -1,2 +1,2 @@
-# NM_pahse2
+# NM_phase2
 Ibm project 
